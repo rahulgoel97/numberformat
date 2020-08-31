@@ -19,7 +19,7 @@ Google sheets script to format numbers into a readable format, with suffixes of 
 
 3. Name the script 'Format Number' (or whatever you desire...)
 
-4. Click on File -> Save
+4. Click on File -> Save & click on the play button
 
 5. Your script should be ready. Try and type '=NUMBERFORMAT(5000)' to test the installation
 
