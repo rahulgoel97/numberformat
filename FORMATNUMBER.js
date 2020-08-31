@@ -42,7 +42,7 @@ function FORMATNUMBER(input, round, fig) {
   if(input_val >=1000000000)
   {
    
-    mag = (input/100000000).toFixed(round).replace(/\B(?=(\d{3})+(?!\d))/g, ",")
+    mag = (input/1000000000).toFixed(round).replace(/\B(?=(\d{3})+(?!\d))/g, ",")
     textnum = mag.toString() + "B"
     
   }
