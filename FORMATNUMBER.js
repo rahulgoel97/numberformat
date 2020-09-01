@@ -6,6 +6,9 @@
  * @return the formatted number in text form 
  * @customfunction
  *
+ * Author: Rahul Goel
+ * Date: August 2020
+ *
  */
 
 
